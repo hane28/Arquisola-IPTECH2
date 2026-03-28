@@ -24,7 +24,7 @@ const Login = ({ setPage, setIsLoggedIn }: Props) => {
 
   return (
     <div className="container">
-      <h1 className="title">Welcome backy</h1>
+      <h1 className="title">Welcome sadsbacky</h1>
       <p className="subtitle">Enter your credentials</p>
 
       <input
